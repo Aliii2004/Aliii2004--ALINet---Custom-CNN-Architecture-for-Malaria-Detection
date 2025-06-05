@@ -45,10 +45,11 @@ ALINet consists of:
 The model is designed to work with the malaria cell images dataset. Each image should be preprocessed to 64x64 pixels in RGB format.
 
 ## Performance
-- Accuracy: ~95% on test set
-- Precision: ~94%
-- Recall: ~96%
-- F1-Score: ~95%
+- Validation Accuracy: 97.89%
+- Accuracy: 98.22% on test set
+- Precision: 98.22%
+- Recall: 98.22%
+- F1-Score: 98.22%
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
