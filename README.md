@@ -5,7 +5,7 @@ ALINet is a custom Convolutional Neural Network (CNN) architecture designed for 
 
 ## Project Structure
 ```
-├── pytorch_cnn_alinet_ai.ipynb   # Main notebook containing model implementation
+├── pytorch_cnn_alinet.py   # Main notebook containing model implementation
 ├── requirements.txt              # Project dependencies
 └── README.md                    # Project documentation
 ```
